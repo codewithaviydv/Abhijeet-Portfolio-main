@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# 👨‍💻 Abhijeet Yadav
+# 👨‍💻 Abhjeet Kumar
 
 ### Civil Engineering 🏗️ | Software Development 💻
 
